@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\bin\Debug\GP_FinalUygulamasi2.exe.config
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\bin\Debug\GP_FinalUygulamasi2.exe
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\bin\Debug\GP_FinalUygulamasi2.pdb
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\obj\Debug\GP_FinalUygulamasi2.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\obj\Debug\GP_FinalUygulamasi2.HesapMakinesi.resources
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\obj\Debug\GP_FinalUygulamasi2.Properties.Resources.resources
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\obj\Debug\GP_FinalUygulamasi2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\obj\Debug\GP_FinalUygulamasi2.exe
+C:\Users\pc\Desktop\GP_FinalUygulamasi2\obj\Debug\GP_FinalUygulamasi2.pdb
